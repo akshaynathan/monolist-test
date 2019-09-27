@@ -5,3 +5,9 @@ install:
 script:
   - true
 
+
+
+foo:
+  - bar
+  
+ hello
